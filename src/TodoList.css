@@ -1,0 +1,23 @@
+form{
+    display: flex;
+}
+form input[type=submit]{
+    margin-left: 20px;
+}
+
+#taskList{
+    background-color: darkgrey;
+    padding: 20px;
+    height: auto!important;
+}
+
+#taskList span{
+    margin-left: 10px;
+}
+
+.btn-danger{
+    height: 15px;
+    font-size: 12px;
+    line-height: 0.1;
+    margin-left: 5px;
+}
